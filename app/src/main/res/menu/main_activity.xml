@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hookedtech.tossdown.UserProfileActivity">
+
+
+    <item
+        android:id="@+id/action_scan"
+        android:icon="@drawable/baseline_crop_free_white_48"
+        android:title="scan"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/outline_near_me_white_48"
+        android:title="map"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+            android:icon="@drawable/baseline_info_white_48"
+        android:title="Legacy"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+
+</menu>

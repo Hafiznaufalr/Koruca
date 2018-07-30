@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Koruca</string>
+    <string name="app_name2">Isyarat</string>
+
+    <string name="tab1">ISYARAT</string>
+    <string name="tab2">Bicara ke Teks</string>
+    <string name="tab3">Teks ke Bicara</string>
+    <string name="tab4">MEMO</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="toggle_camera">Putar Kamera</string>
+    <string name="detect_object">Deteksi Objek</string>
+    <string name="angka">Isyarat Angka</string>
+    <string name="huruf">Isyarat huruf</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="hapus">Hapus</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
